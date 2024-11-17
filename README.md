@@ -55,14 +55,10 @@ python path_finding.py
 
 Follow the on-screen instructions to interact with the grid and visualize the pathfinding algorithms.
 
-## Screenshots
-
-*(Add images or GIFs demonstrating the tool's interface and functionality.)*
-
 ## Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
+### Author
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Created by K.Vamsi.
